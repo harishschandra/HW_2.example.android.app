@@ -14,3 +14,7 @@ To run the app, simply clone the repository and open it in android studio. From 
 ### ScreenShot of Google signin options:
 
 <img width="208" alt="screenshot 17" src="https://user-images.githubusercontent.com/31711508/32796570-1f3872f0-c93d-11e7-98b7-97cacac08316.png">
+
+### ScreenShot of photo upload page:
+
+<img width="202" alt="screenshot 19" src="https://user-images.githubusercontent.com/31711508/32796631-52c15d76-c93d-11e7-8af0-aa566483cc48.png">
