@@ -10,3 +10,7 @@ To run the app, simply clone the repository and open it in android studio. From 
 ### ScreenShot of Signin page:
 
 <img width="212" alt="screenshot 16" src="https://user-images.githubusercontent.com/31711508/32796464-d94ba794-c93c-11e7-8838-c079bd71424b.png">
+
+### ScreenShot of Google signin options:
+
+<img width="208" alt="screenshot 17" src="https://user-images.githubusercontent.com/31711508/32796570-1f3872f0-c93d-11e7-98b7-97cacac08316.png">
